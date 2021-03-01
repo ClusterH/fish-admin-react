@@ -1,0 +1,14 @@
+{
+  "dashboard": {
+    "title": "대시보드",
+    "path": "/dashboard"
+  },
+  "user": {
+    "title": "회원관리",
+    "path": "/user"
+  },
+  "list": {
+    "title": "회원목록",
+    "path": "/user/list"
+  }
+}

@@ -1,0 +1,90 @@
+export const winterSchedule = [{
+    weekday: 1,
+    morningBegin: '09:00',
+    morningEnd: '12:00',
+    afternoonBegin: '15:00',
+    afternoonEnd: '17:00',
+}, {
+    weekday: 2,
+    morningBegin: '09:00',
+    morningEnd: '12:00',
+    afternoonBegin: '15:00',
+    afternoonEnd: '17:00',
+}, {
+    weekday: 3,
+    morningBegin: '09:00',
+    morningEnd: '12:00',
+    afternoonBegin: '15:00',
+    afternoonEnd: '17:00',
+}, {
+    weekday: 4,
+    morningBegin: '09:00',
+    morningEnd: '12:00',
+    afternoonBegin: '15:00',
+    afternoonEnd: '17:00',
+}, {
+    weekday: 5,
+    morningBegin: '09:00',
+    morningEnd: '12:00',
+    afternoonBegin: null,
+    afternoonEnd: null,
+}, {
+    weekday: 6,
+    morningBegin: null,
+    morningEnd: null,
+    afternoonBegin: null,
+    afternoonEnd: null,
+}, {
+    weekday: 0,
+    morningBegin: null,
+    morningEnd: null,
+    afternoonBegin: null,
+    afternoonEnd: null,
+}];
+
+export const summerSchedule = [{
+    weekday: 1,
+    morningBegin: '08:00',
+    morningEnd: '12:00',
+    afternoonBegin: '14:00',
+    afternoonEnd: '17:00',
+}, {
+    weekday: 2,
+    morningBegin: '08:00',
+    morningEnd: '12:00',
+    afternoonBegin: '14:00',
+    afternoonEnd: '17:00',
+}, {
+    weekday: 3,
+    morningBegin: '08:00',
+    morningEnd: '12:00',
+    afternoonBegin: '14:00',
+    afternoonEnd: '17:00',
+}, {
+    weekday: 4,
+    morningBegin: '08:00',
+    morningEnd: '12:00',
+    afternoonBegin: '14:00',
+    afternoonEnd: '17:00',
+}, {
+    weekday: 5,
+    morningBegin: '08:00',
+    morningEnd: '12:00',
+    afternoonBegin: null,
+    afternoonEnd: null,
+}, {
+    weekday: 6,
+    morningBegin: null,
+    morningEnd: null,
+    afternoonBegin: null,
+    afternoonEnd: null,
+}, {
+    weekday: 0,
+    morningBegin: null,
+    morningEnd: null,
+    afternoonBegin: null,
+    afternoonEnd: null,
+}];
+
+
+

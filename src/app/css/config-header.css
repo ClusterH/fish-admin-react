@@ -1,0 +1,47 @@
+.MuiTab-textColorSecondary {
+	padding: 0 4px !important;
+	border-radius: 10px 10px 0 0 !important;
+	color: #ccc !important;
+	background-color: #3331 !important;
+}
+
+.MuiTab-textColorSecondary.Mui-selected {
+	color: #fff !important;
+	background-color: #fff1 !important;
+	border-color: #fff !important;
+}
+
+.big-data .MuiTabs-root {
+	border-radius: 5px 5px 0 0;
+}
+
+.big-data .MuiTabScrollButton-root {
+	width: 32px;
+}
+
+.big-data .MuiTab-textColorSecondary {
+	border-radius: 0 !important;
+	padding: 0 10px !important;
+	color: #333 !important;
+	background-color: transparent !important;
+}
+
+.big-data .MuiTab-textColorSecondary.Mui-selected {
+	font-weight: 600;
+	color: #fff !important;
+	background-color: #0006 !important;
+}
+
+.big-data .PrivateTabIndicator-colorSecondary-4 {
+	background-color: #3336 !important;
+}
+
+.warning-box {
+	position: absolute;
+	top: 100px;
+	margin-left: 50%;
+	transform: translateX(-50%);
+	border: 1px solid rgba(224, 224, 224, 1);
+	border-radius: 4px;
+	padding: 20px;
+}
